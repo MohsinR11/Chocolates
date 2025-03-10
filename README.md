@@ -53,4 +53,4 @@ This **Power BI dashboard** provides a comprehensive analysis of **sales and pro
 Feel free to fork this repository, make improvements, and submit pull requests.
 
 ## 📬 Contact
-For queries, reach out via **mohsinansari1799@gmail.com** or **[LinkedIn Profile]**.
+For queries, reach out via **mohsinansari1799@gmail.com** or **[[LinkedIn Profile]](https://www.linkedin.com/in/mohsin--raza/)**.
